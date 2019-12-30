@@ -1,0 +1,84 @@
+User-agent: Googlebot
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore
+Disallow: /contact_process.php
+Disallow: /prepos-6.config
+
+User-agent: Bingbot
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore
+Disallow: /contact_process.php
+Disallow: /prepos-6.config
+
+User-agent: msnbot
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore
+Disallow: /contact_process.php
+Disallow: /prepos-6.config
+
+User-agent: Applebot
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore
+Disallow: /contact_process.php
+Disallow: /prepos-6.config
+
+User-agent: Googlebot-Image
+Disallow: /.git/
+Disallow: /.DS_Store
+Disallow: /.gitignore
+Disallow: /contact_process.php
+Disallow: /prepos-6.config
+
+User-agent: Googlebot
+Allow: /css/
+Allow: /fonts/
+Allow: /Satner Portfolio -doc/
+Allow: /scss/
+Allow: /vendors/
+Allow: /cv_final_achraf2.pdf
+
+User-agent: Bingbot
+Allow: /css/
+Allow: /fonts/
+Allow: /Satner Portfolio -doc/
+Allow: /scss/
+Allow: /vendors/
+Allow: /cv_final_achraf2.pdf
+
+User-agent: Applebot
+Allow: /css/
+Allow: /fonts/
+Allow: /Satner Portfolio -doc/
+Allow: /scss/
+Allow: /vendors/
+Allow: /cv_final_achraf2.pdf
+
+User-agent: Googlebot-Image
+Allow: /css/
+Allow: /fonts/
+Allow: /Satner Portfolio -doc/
+Allow: /scss/
+Allow: /vendors/
+Allow: /cv_final_achraf2.pdf
+
+
+User-agent: msnbot
+Allow: /css/
+Allow: /fonts/
+Allow: /Satner Portfolio -doc/
+Allow: /scss/
+Allow: /vendors/
+Allow: /cv_final_achraf2.pdf
+
+User-agent: *
+Disallow: /
+
+
+
+
+
+
